@@ -1,0 +1,13 @@
+[Nemo Action]
+
+Name=Send files to Phone...
+
+Comment=Send files to all the paired phones through KDEConnect
+
+Exec=<send_to_phone.sh %F>
+
+Icon-Name=kdeconnectindicatordark
+
+Selection=notnone
+
+Extensions=any
